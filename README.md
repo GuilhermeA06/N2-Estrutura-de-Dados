@@ -32,10 +32,6 @@ Cada linha do arquivo deve seguir o padrão:
 1622471189 sensor1 inteiro 30
 1622471150 sensor2 float 12.5
 
-perl
-Copiar
-Editar
-
 ## Como Compilar
 
 No terminal, dentro da pasta do projeto, compile os programas com:
